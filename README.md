@@ -44,14 +44,6 @@ Proyek ini (aplikasi dan *landing page*) dibangun menggunakan teknologi modern u
 
 ---
 
-## 🚀 Live Demo
-
-Penasaran dengan tampilan *landing page* ini?
-
-**Kunjungi Live Demo: [LetMeCook Landing Page](https://yudnata.github.io/letmecook-landing-page/)**
-
----
-
 ## 👤 Developer
 
 Dibuat sebagai bagian dari tugas kuliah oleh:
